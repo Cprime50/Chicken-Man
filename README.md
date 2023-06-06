@@ -30,3 +30,5 @@
 
 
 """ Feel free to play around with the code and do whattever you wan with it. Hope you enjoy the game """
+
+![](https://github.com/Cprime50/Chicken-Man/blob/master/chicken-man.jpg)
