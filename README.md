@@ -29,6 +29,7 @@
 4. Also note that as time increase the enemys spawn faster and their movement increases"""
 
 
-""" Feel free to play around with the code and do whattever you wan with it. Hope you enjoy the game """
+""" Feel free to play around with the code and do whattever you want with it. Hope you enjoy the game """
 
 ![](https://github.com/Cprime50/Chicken-Man/blob/master/chicken-man.jpg)
+![Untitled design](https://github.com/Cprime50/Chicken-Man/assets/130233108/2c3776a1-2c6c-4b6d-a96c-90e4e1d922ef)
